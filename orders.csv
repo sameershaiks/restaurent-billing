@@ -1,5 +1,5 @@
-item : price
-- pizza : 80,
-- burger : 100,
-- sandwich : 70,
+item     : price
+pizza    : 80,
+burger   : 100,
+sandwich : 70,
  
