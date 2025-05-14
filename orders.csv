@@ -1,4 +1,4 @@
-"item" : "price"
+item : price
 - pizza : 80,
 - burger : 100,
 - sandwich : 70,
